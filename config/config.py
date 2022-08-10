@@ -41,7 +41,7 @@ LOG_GROUP_ID = int("-1001582602389")
 MUSIC_BOT_NAME = "Im Cutiepii"
 
 # Your User ID.
-OWNER_ID = int("2131857711")
+OWNER_ID = 2131857711
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
